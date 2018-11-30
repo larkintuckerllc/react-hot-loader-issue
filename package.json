@@ -1,0 +1,23 @@
+{
+  "name": "react-hot-loader-issue",
+  "sideEffects": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.1.6",
+    "react": "^16.6.3",
+    "react-hot-loader": "^4.3.12"
+  }
+}
